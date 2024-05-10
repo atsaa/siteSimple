@@ -112,7 +112,7 @@ header div{
         height: 200px;
     }
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
     header li{
         margin-left: 2px;
     }
